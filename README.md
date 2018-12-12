@@ -42,4 +42,10 @@ To create the landscape I used the landscape tool within Unreal, Textures featur
 ##### Water
 The water featured in the project was created using this [tutorial](https://www.youtube.com/watch?v=IpEfhLTfqBw)
 
+##### Characters
+The models and animations shown in the project aside from the towers were sourced from [Mixamo] (https://www.mixamo.com/#/)
+
+##### Audio
+All audio featured in the project was sourced from [soundbible.com](http://soundbible.com) and [free music archive.org](https://freemusicarchive.org/)
+
 
