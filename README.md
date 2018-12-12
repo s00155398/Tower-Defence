@@ -23,3 +23,11 @@ The utilises a point based economy where the player starts with a pool of points
 
 The project features a hub based approach to the placement of towers, where the player will click on one of these hubs and will then be shown a menu with which the player can select which tower they wish to place down. This ties in with the point system that keeps track whether or not the player can afford the selected tower or not. From this menu the player can read information concerning the towers stats and its description. Once placed down the tower will fire upon any enemies that stray into its sights. If the player no longer wants the tower they can scrap it by clicking on the tower and selecting the deconstruct button which will recoup half the point cost back to the player.
 
+###### Enemy Design
+
+
+With enemies the behaviour to advance along their path to the end goal of the telecore but to make this more interesting I created four different types of enemies to deal with. To start with I created a base enemy class that would share the standard variables such as health and movement speed and then split them into varying types such as the standard enemy, the fast enemy, the large slow enemy and an enemy that makes other enemies tougher within a given range. With this latter enemy to do this I assigned a collision box volume around the enemy that will check each actor that enters the volume has one of the tags associated with the four different types of Enemies. If an actor is found to have one of these tags and is in the collision volume then a boolean will be flipped and any damage incoming to said enemy will be reduced as a result. To visualise this effect, I created an effect within Niagara, Unreal Engines fx editor.
+
+##### Level Design
+
+While creating the levels for this project, I followed the standard Tower defence layout of lanes and paths. Level one begins simply with a single lane for which the player must defend however as the player progresses from level to level they become increasingly difficult with the addition of more lanes to defend and more enemies to defeat. To advance to the next level the player must defeat all enemies that spawn. I created these levels using the landscape tool to shape the layout of the paths.
