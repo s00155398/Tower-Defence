@@ -52,4 +52,4 @@ All audio featured in the project was sourced from [soundbible.com](http://sound
 Initially I had intended this project to be completed within 2 months however due to unforseen circumstances such as unexpected difficulty and really not knowing how big or how much to include within the project led to about 4 months of development. However at the end I find this to have been a worthwile project as I find that I have learned a great deal more than when I started such as Navigation, inheritance in base classes among other things. I have also learned that one of the most important processes of Game Design is planning in that it sets a clear structure on whats to be done when and why. I immensly enjoyed the time I spend on the project and will as I delve onto the next project to be!
 
 ##### Link
-Here is a link to the packaged project so you can play it yourself! [https://github.com/s00155398/Packaged-Tower-Defence-Game](Here)
+Here is a link to the packaged project so you can play it yourself! [Here](https://github.com/s00155398/Packaged-Tower-Defence-Game)
