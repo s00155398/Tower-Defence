@@ -1,8 +1,8 @@
-# Tower Defence Project by Gerard Connor
+# Tower Defence Project 
 
 ## Introduction
 
-Hi my name is Gerard Connor and I created this project in order to learn and develop my skills within Unreal Engine whilst also expanding further in certain areas such as Level Design and 3d Modelling. My aim with this project was to create a somewhat enjoyable game in the Tower Defence genre using what skills I currently possessed at the time aswell as demonstrating what I could achieve with said skills.
+I created this project in order to learn and develop my skills within Unreal Engine whilst also expanding further in certain areas such as Level Design and 3d Modelling. My aim with this project was to create a somewhat enjoyable game in the Tower Defence genre using what skills I currently possessed at the time aswell as demonstrating what I could achieve with said skills.
 
 ## Gameplay
 
